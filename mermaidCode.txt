@@ -1,0 +1,9 @@
+
+graph TD
+A[PAN] --> B[Bluetooth]
+A --> C[RFID]
+A --> D[Wireless Network]
+A --> E[Short Range]
+A --> F[Personal Devices]
+A --> G[Limited Area]
+    
